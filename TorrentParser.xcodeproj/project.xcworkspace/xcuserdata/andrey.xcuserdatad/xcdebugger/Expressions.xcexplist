@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController isDicPattern:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController isStringPattern:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController extractData:delimiterPattern:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[typeString length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController isEndPattern:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__29-[ViewController fileParser:]_block_invoke:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPMainViewController extractData:delimiterPattern:]:TPMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lengthOfNextTagLabel">
+            </PersistentString>
+            <PersistentString
+               value = "self.jsonString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController isIntegerPattern:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController isListPattern:]:ViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
